@@ -15,7 +15,10 @@ e = ["Hola", "Mundo"]
 
 f = ..
 
-Print(a,b,c,d,e,f)
-
 Print(type(a,b,c,d,e,f))
-
+Print(type(a))
+Print(type(b))
+Print(type(c))
+Print(type(d))
+Print(type(e))
+Print(type(f))
